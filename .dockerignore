@@ -1,0 +1,8 @@
+build/
+.vscode/
+./scripts/
+README.md
+LICENSE
+.gitignore
+.gitmodules
+.git/
